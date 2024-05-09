@@ -1,4 +1,4 @@
-# snowhouse
+# Snowhouse
 Snowflake native AI agent building toolkit
 
 AI agent development is complex and frustrating today. 
